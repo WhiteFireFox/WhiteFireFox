@@ -1,3 +1,4 @@
+### Hi, I'm Zhihao Cao, Welcome!
 <!--
 **WhiteFireFox/WhiteFireFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/WhiteFireFox" class="rich-diff-level-one">
     <img src="https://github-readme-stats.vercel.app/api?username=WhiteFireFox&title_color=333&text_color=777" alt="Zhihao Cao's Stats" >
     <!-- &hide=issues
@@ -21,3 +22,19 @@ Here are some ideas to get you started:
     -->
   </a>
 </p>
+
+
+<p align="left">
+<a href="https://github.com/WhiteFireFox">
+    <img src="https://badges.pufler.dev/visits/WhiteFireFox/WhiteFireFox?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/WhiteFireFox">
+    <img src="https://badges.pufler.dev/years/WhiteFireFox?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/WhiteFireFox?tab=repositories">
+    <img src="https://badges.pufler.dev/repos/WhiteFireFox?style=flat-square&color=black&logo=github">
+  </a>
+  <a href="https://github.com/WhiteFireFox">
+    <img src="https://badges.pufler.dev/commits/monthly/WhiteFireFox?style=flat-square&color=black&logo=github">
+  </a>
+  </p>
