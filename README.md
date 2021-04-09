@@ -34,9 +34,6 @@ Here are some ideas to get you started:
   <a href="https://github.com/WhiteFireFox?tab=repositories">
     <img src="https://badges.pufler.dev/repos/WhiteFireFox?style=flat-square&color=black&logo=github">
   </a>
-  <a href="https://github.com/WhiteFireFox">
-    <img src="https://badges.pufler.dev/commits/monthly/WhiteFireFox?style=flat-square&color=black&logo=github">
-  </a>
   </p>
   
   ### Contact me
